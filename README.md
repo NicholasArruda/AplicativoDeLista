@@ -1,4 +1,3 @@
-<p align="center">
 ## ToDo List
   </a>
 </p>
