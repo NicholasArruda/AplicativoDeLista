@@ -1,5 +1,5 @@
 <p align="center">
-  ToDo list
+## ToDo List
   </a>
 </p>
 <h1 align="center">
@@ -9,17 +9,6 @@ Este projeto é fruto de uma atividade da Faculdade UNIFG.
 </p>
 <p align="center">
 </p>
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
-</p>
-
----
 
 <p style="margin-top: 20px">
 
