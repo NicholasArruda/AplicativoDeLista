@@ -1,4 +1,5 @@
 <p align="center">
+  ToDo list
   </a>
 </p>
 <h1 align="center">
@@ -28,6 +29,8 @@ Desenvolvi este projeto com HTML, CSS e JavaScript.
 
 O objetivo foi criar uma lista de tarefas, mas com funcionalidades mais avançadas, como salvar os itens no Local Storage e editar itens já cadastados.
 
+<p style="margin-top: 20px">
+  
 Busquei utilizar as melhores práticas de programação nomeando os métodos e variávies de forma descritiva, em inglês, e separando a lógica das funções de forma que cada função fosse responsável por uma tarefa específica.
 ---
 
